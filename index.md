@@ -38,7 +38,7 @@ layout: page
     </div>
 
 <p class="message">
-  Chunhua Liu is a PhD student in natural language processing at The University of Melbourne under the supervision of Trevor Cohn and Lea Frermann. Her research interests center around understanding the structure and relationships between concepts through interdisciplinary perspectives, including natural language processing and cognitive psychology. With a specific emphasis on understanding the structure and reasons behind human word associations, evaluating the potential of word associations as a source of commonsense knowledge and incorporating commonsense knowledge to improve neural models' reasoning ability on tasks, such as commonsense question answering and natural language inferences.  Additionally, she is interested in  exploring concept representation and categorization across languages and cultures.
+Chunhua Liu is a PhD student in natural language processing at The University of Melbourne under the supervision of [Trevor Cohn](https://people.eng.unimelb.edu.au/tcohn/) and [Lea Frermann](https://www.frermann.de/). Her research interests center around understanding the structure and relationships between concepts through interdisciplinary perspectives, including natural language processing and cognitive psychology. With a specific emphasis on understanding the structure and reasons behind human word associations, evaluating the potential of word associations as a source of commonsense knowledge and incorporating commonsense knowledge to improve neural models' reasoning ability on tasks, such as commonsense question answering and natural language inferences. Additionally, she is interested in exploring concept representation and categorization across languages and cultures.
 </p>
 
 <h3>News</h3>
@@ -50,4 +50,4 @@ layout: page
 
 <h3>Recent Papers</h3>
 
-{% include publications.html year=2023 %}
+{% include publications.html year=2021-2023 %}
