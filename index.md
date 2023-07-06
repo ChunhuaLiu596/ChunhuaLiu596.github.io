@@ -49,5 +49,7 @@ I am a PhD student in natural language processing at The University of Melbourne
 </ul>
 
 <h3>Recent Papers</h3>
+{% for year in (2021..2023) %}
+  {% include publications.html year=year %}
+{% endfor %}
 
-{% include publications.html year=2021-2023 %}
