@@ -10,21 +10,21 @@ gem: [jekyll-paginate, jekyll-gists]
 plugins: [jekyll-paginate]
 
 # Setup
-title:            Trevor Cohn
+title:           Chunhua Liu 
 tagline:          'U. Melb.'
-description:      'Associate Professor, <a href="https://cis.unimelb.edu.au/">Computing and Information Systems</a> at <a href="https://www.unimelb.edu.au/">the University of Melbourne</a>.'
-url:              https://trevorcohn.github.io
+description:      'PhD Student, <a href="https://cis.unimelb.edu.au/">Computing and Information Systems</a> at <a href="https://www.unimelb.edu.au/">the University of Melbourne</a>.'
+url:              https://chunhualiu596.github.io/
 baseurl:          /
 
 author:
-  name:           'Trevor Cohn'
-  url:            https://scholar.google.com/citations?user=FCom398AAAAJ&hl=en
+  name:           'Chunhua Liu'
+  url:            https://scholar.google.com/citations?user=IvOlenIAAAAJ&hl=en
 
 paginate:         5
 
 # Custom vars
 
-dblp:             https://dblp.org/pers/hd/c/Cohn:Trevor
-gscholar:	  https://scholar.google.com/citations?user=FCom398AAAAJ&hl=en
-github:           https://github.com/trevorcohn
+dblp:             https://dblp.org/pid/68/4756.html
+gscholar:	  https://scholar.google.com/citations?user=IvOlenIAAAAJ&hl=en
+github:           https://github.com/ChunhuaLiu596
   

@@ -1,17 +1,4 @@
 posts:
-  - date: October 2022
-    text: Thinh Truong awarded <a href="https://www.aacl2022.org/Blog/Best-paper-awards">AACL award</a> for best paper runner-up
-  - date: July 2022
-    text: Nitika Mathur awarded <a href="https://www.core.edu.au/john-makepeace-bennett-award-australasian-distinguished-do">CORE dissertation award</a>
-  - date: February 2022
-    text: Appointed Director of the <a href="https://aimedtech.org.au/">ITTC on medtech</a>, taking over from Tim Baldwin
-  - date: July 2020 
-    text: Nitika Mathur was awarded a best paper at ACL 2020 (honorable mention), for <i>Tangled Up in BLEU - Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics</i>
-  - date: October 2019 
-    text: I am travelling to Hong Kong for EMNLP, to present two papers in the main conference and two workshop papers.
-  - date: September 2019 
-    text: I will serve as PC chair for EMNLP 2020, alongside Yang Liu and Yulan He.
-  - date: July 2019 
-    text: The group has papers at ICML, WWW, NAACL, ICASSP and ACL (x3).
-  - date: July 2018 
-    text: We hosted <a href="http://acl2018.org">ACL 2018</a> in Melbourne, with Tim Baldwin, Karin Verspoor and myself serving as the local chairs.
+  - date: July 2023
+    text: Attending ACL/*SEM to present our paper **Seeking Clozure: Robust Hypernym Extraction from BERT with Anchored
+Prompts** 

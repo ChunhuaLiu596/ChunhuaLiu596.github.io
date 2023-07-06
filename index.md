@@ -1,17 +1,15 @@
 ---
 layout: page
 ---
-
 <div class="row">
-    <div class="col-sm-3"><img src="{{ site.baseurl }}public/mug18.png" alt="Photo of Trevor"></div> 
+    <div class="col-sm-3"><img src="{{ site.baseurl }}public/blcu16.JPG" alt="Photo of Chunhua"></div> 
     <div class="col-sm-9">
 	  <div class="row">
 	    <div class="col-sm-3">
-	      <b>Trevor Cohn</b>
-	      <br>Professor 
+	      <b>Chunhua Liu</b>
+	      <br>PhD Student
 	      <address>
-		Room 323<br/>
-		Doug McDonnell Building (#167)
+		Melbourne Connect
 	      </address>
 	    </div>
 		<div class="col-sm-7">
@@ -24,31 +22,23 @@ layout: page
 	    <div class="col-sm-3">
 	<script type="text/javascript"><!--
 	document.write('<a href="' +
-	'&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#116;' +
-	'&#099;&#111;&#104;&#110;&#064;&#117;&#110;&#105;' +
-	'&#109;&#101;&#108;&#098;&#046;&#101;&#100;&#117;' +
-	'&#046;&#097;&#117;&#013;&#010;">' +
+	'mailto:t' +
+	'cohn@uni' +
+	'melb.edu' +
+	'.au
+">' +
 	'<span class="glyphicon glyphicon-envelope"></span></a> Email');
 	//-->
 	</script>
-	<noscript><IMG alt="E-mail" border=0 src="./email.jpg"></noscript>
+	<noscript><IMG alt="E-mail" border=0 src="./email.png"></noscript>
 	    </div>
-	    <div class="col-sm-7"> Ph: +61383441732 </div>
+	    <div class="col-sm-7"> Ph: +61000000000 </div>
 	    </div>
 	</div>
     </div>
 
 <p class="message">
-  Understanding of human language by computers has been a central goal of
-  Artificial Intelligence since its beginnings, with massive potential to
-  improve communication, provide better information access and automate basic
-  human tasks. My research focuses on technologies for automatic processing of
-  human language, with several applications including automatic translation 
-  (akin to <a href="http://translate.google.com">Google</a> and
-  <a href="http://www.bing.com/translator">Bing's</a> translation tools). 
-  My core focus is on probabilistic machine learning modelling
-  of language applications, particularly handling uncertain
-  or partly observed data and structured prediction problems.
+  Chunhua Liu is a PhD student in natural language processing at The University of Melbourne under the supervision of Trevor Cohn and Lea Frermann. Her research interests center around understanding the structure and relationships between concepts through interdisciplinary perspectives, including natural language processing and cognitive psychology. With a specific emphasis on understanding the structure and reasons behind human word associations, evaluating the potential of word associations as a source of commonsense knowledge and incorporating commonsense knowledge to improve neural models' reasoning ability on tasks, such as commonsense question answering and natural language inferences.  Additionally, she is interested in  exploring concept representation and categorization across languages and cultures.
 </p>
 
 <h3>News</h3>
