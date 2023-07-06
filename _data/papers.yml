@@ -1,18 +1,129 @@
 papers:
   - layout: paper
+    author: "Chunhua Liu, Trevor Cohn and Lea Frermann"
+    title: "Seeking Clozure: Robust Hypernym Extraction from BERT with Anchored Prompts"
+    year: "2023"
+    paper-type: inproceedings
+    booktitle: "*SEM 2023"
+    booktitle-full: "The 12th Joint Conference on Lexical and Computational Semantics"
+    docurl: "https://github.com/ChunhuaLiu596/AnchoredPrompts/blob/main/paper/Seeking%20Clozure%20Robust%20Hypernym%20Extraction%20from%20BERT%20with%20Anchored%20Prompts.pdf"
+  - layout: paper
     author: "Chunhua Liu, Trevor Cohn, Simon Deyne and Lea Frermann"
     title: "WAX: A New Dataset for Word Association eXplanations"
     year: "2022"
     paper-type: inproceedings
-    booktitle: "AACL-IJCNLP 2022"
-    booktitle-full: "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing"
+    booktitle: "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing, AACL/IJCNLP 2022 - Volume 1: Long Papers, Online Only, November 20-23, 2022"
+    booktitle-full: "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing, AACL/IJCNLP 2022 - Volume 1: Long Papers, Online Only, November 20-23, 2022"
     docurl: "https://aclanthology.org/2022.aacl-main.9"
   - layout: paper
     author: "Chunhua Liu, Trevor Cohn and Lea Frermann"
     title: "Commonsense Knowledge in Word Associations and ConceptNet"
     year: "2021"
     paper-type: inproceedings
-    booktitle: "CoNLL 2021"
-    booktitle-full: "Proceedings of the 25th Conference on Computational Natural Language Learning"
+    booktitle: "Proceedings of the 25th Conference on Computational Natural Language Learning, CoNLL 2021, Online, November 10-11, 2021"
+    booktitle-full: "Proceedings of the 25th Conference on Computational Natural Language Learning, CoNLL 2021, Online, November 10-11, 2021"
     docurl: "https://doi.org/10.18653/v1/2021.conll-1.38"
-  
+  - layout: paper
+    author: "Haiou Zhang, Hanjun Zhao, Chunhua Liu and Dong Yu"
+    title: "Task-to-Task Transfer Learning with Parameter-Efficient Adapter"
+    year: "2020"
+    paper-type: inproceedings
+    booktitle: "Natural Language Processing and Chinese Computing - 9th CCF International Conference, NLPCC 2020, Zhengzhou, China, October 14-18, 2020, Proceedings, Part II"
+    booktitle-full: "Natural Language Processing and Chinese Computing - 9th CCF International Conference, NLPCC 2020, Zhengzhou, China, October 14-18, 2020, Proceedings, Part II"
+    docurl: "https://doi.org/10.1007/978-3-030-60457-8_32"
+  - layout: paper
+    author: "Yan Zhao, Lu Liu, Chunhua Liu, Ruoyao Yang and Dong Yu"
+    title: "From Plots to Endings: A Reinforced Pointer Generator for Story Ending Generation"
+    year: "2019"
+    paper-type: article
+    journal: "CoRR"
+    volume: abs/1901.03459
+    docurl: "http://arxiv.org/abs/1901.03459"
+  - layout: paper
+    author: "Chunhua Liu, Yan Zhao, Qingyi Si, Haiou Zhang, Bohan Li and Dong Yu"
+    title: "Multi-Perspective Fusion Network for Commonsense Reading Comprehension"
+    year: "2019"
+    paper-type: article
+    journal: "CoRR"
+    volume: abs/1901.02257
+    docurl: "http://arxiv.org/abs/1901.02257"
+  - layout: paper
+    author: "Chunhua Liu, Haiou Zhang, Shan Jiang and Dong Yu"
+    title: "DEMN: Distilled-Exposition Enhanced Matching Network for Story Comprehension"
+    year: "2019"
+    paper-type: article
+    journal: "CoRR"
+    volume: abs/1901.02252
+    docurl: "http://arxiv.org/abs/1901.02252"
+  - layout: paper
+    author: "Ruoyao Yang, Wanying Xie, Chunhua Liu and Dong Yu"
+    title: "BLCU_NLP at SemEval-2019 Task 7: An Inference Chain-based GPT Model for Rumour Evaluation"
+    year: "2019"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 13th International Workshop on Semantic Evaluation, SemEval@NAACL-HLT 2019, Minneapolis, MN, USA, June 6-7, 2019"
+    booktitle-full: "Proceedings of the 13th International Workshop on Semantic Evaluation, SemEval@NAACL-HLT 2019, Minneapolis, MN, USA, June 6-7, 2019"
+    docurl: "https://doi.org/10.18653/v1/s19-2191"
+  - layout: paper
+    author: "Wanying Xie, Mengxi Que, Ruoyao Yang, Chunhua Liu and Dong Yu"
+    title: "BLCU_NLP at SemEval-2019 Task 8: A Contextual Knowledge-enhanced GPT Model for Fact Checking"
+    year: "2019"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 13th International Workshop on Semantic Evaluation, SemEval@NAACL-HLT 2019, Minneapolis, MN, USA, June 6-7, 2019"
+    booktitle-full: "Proceedings of the 13th International Workshop on Semantic Evaluation, SemEval@NAACL-HLT 2019, Minneapolis, MN, USA, June 6-7, 2019"
+    docurl: "https://doi.org/10.18653/v1/s19-2198"
+  - layout: paper
+    author: "Meiqian Zhao, Chunhua Liu, Lu Liu, Yan Zhao and Dong Yu"
+    title: "BLCU_NLP at SemEval-2018 Task 12: An Ensemble Model for Argument Reasoning Based on Hierarchical Attention"
+    year: "2018"
+    paper-type: inproceedings
+    booktitle: "Proceedings of The 12th International Workshop on Semantic Evaluation, SemEval@NAACL-HLT 2018, New Orleans, Louisiana, USA, June 5-6, 2018"
+    booktitle-full: "Proceedings of The 12th International Workshop on Semantic Evaluation, SemEval@NAACL-HLT 2018, New Orleans, Louisiana, USA, June 5-6, 2018"
+    docurl: "https://doi.org/10.18653/v1/s18-1186"
+  - layout: paper
+    author: "Chunhua Liu, Haiou Zhang, Shan Jiang and Dong Yu"
+    title: "DEMN: Distilled-Exposition Enhanced Matching Network for Story Comprehension"
+    year: "2018"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 32nd Pacific Asia Conference on Language, Information and Computation, PACLIC 2018, Hong Kong, December 1-3, 2018"
+    booktitle-full: "Proceedings of the 32nd Pacific Asia Conference on Language, Information and Computation, PACLIC 2018, Hong Kong, December 1-3, 2018"
+    docurl: "https://aclanthology.org/Y18-1045/"
+  - layout: paper
+    author: "Yan Zhao, Lu Liu, Chunhua Liu, Ruoyao Yang and Dong Yu"
+    title: "From Plots to Endings: A Reinforced Pointer Generator for Story Ending Generation"
+    year: "2018"
+    paper-type: inproceedings
+    booktitle: "Natural Language Processing and Chinese Computing - 7th CCF International Conference, NLPCC 2018, Hohhot, China, August 26-30, 2018, Proceedings, Part I"
+    booktitle-full: "Natural Language Processing and Chinese Computing - 7th CCF International Conference, NLPCC 2018, Hohhot, China, August 26-30, 2018, Proceedings, Part I"
+    docurl: "https://doi.org/10.1007/978-3-319-99495-6_5"
+  - layout: paper
+    author: "Chunhua Liu, Shan Jiang, Hainan Yu and Dong Yu"
+    title: "Multi-turn Inference Matching Network for Natural Language Inference"
+    year: "2018"
+    paper-type: inproceedings
+    booktitle: "Natural Language Processing and Chinese Computing - 7th CCF International Conference, NLPCC 2018, Hohhot, China, August 26-30, 2018, Proceedings, Part II"
+    booktitle-full: "Natural Language Processing and Chinese Computing - 7th CCF International Conference, NLPCC 2018, Hohhot, China, August 26-30, 2018, Proceedings, Part II"
+    docurl: "https://doi.org/10.1007/978-3-319-99501-4_11"
+  - layout: paper
+    author: "Shan Jiang, Bohan Li, Chunhua Liu and Dong Yu"
+    title: "Knowledge Augmented Inference Network for Natural Language Inference"
+    year: "2018"
+    paper-type: inproceedings
+    booktitle: "Knowledge Graph and Semantic Computing. Knowledge Computing and Language Understanding - Third China Conference, CCKS 2018, Tianjin, China, August 14-17, 2018, Revised Selected Papers"
+    booktitle-full: "Knowledge Graph and Semantic Computing. Knowledge Computing and Language Understanding - Third China Conference, CCKS 2018, Tianjin, China, August 14-17, 2018, Revised Selected Papers"
+    docurl: "https://doi.org/10.1007/978-981-13-3146-6_11"
+  - layout: paper
+    author: "Yukun Feng, Dong Yu, Jian Xu and Chunhua Liu"
+    title: "Semantic Frame Labeling with Target-based Neural Model"
+    year: "2017"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 6th Joint Conference on Lexical and Computational Semantics, *SEM @ACM 2017, Vancouver, Canada, August 3-4, 2017"
+    booktitle-full: "Proceedings of the 6th Joint Conference on Lexical and Computational Semantics, *SEM @ACM 2017, Vancouver, Canada, August 3-4, 2017"
+    docurl: "https://doi.org/10.18653/v1/S17-1010"
+  - layout: paper
+    author: "Dong Yu, Cheng Yu, Qing Qu, Gongbo Tang, Chunhua Liu, Yuan Tian and Jing Yi"
+    title: "An Introduction to BLCU Personal Attributes Extraction System"
+    year: "2014"
+    paper-type: inproceedings
+    booktitle: "Proceedings of The Third CIPS-SIGHAN Joint Conference on Chinese Language Processing, Wuhan, China, October 20-21, 2014"
+    booktitle-full: "Proceedings of The Third CIPS-SIGHAN Joint Conference on Chinese Language Processing, Wuhan, China, October 20-21, 2014"
+    docurl: "https://doi.org/10.3115/v1/W14-6819"
