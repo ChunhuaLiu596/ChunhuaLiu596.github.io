@@ -11,7 +11,7 @@ You can also find my articles on <a href="{{site.gscholar}}">my Google Scholar p
 
 {% for year in (startYear..currentYear) reversed %}
 
-## }
+## 2014 
 
   {% include publications.html year=year %}
 {% endfor %}
