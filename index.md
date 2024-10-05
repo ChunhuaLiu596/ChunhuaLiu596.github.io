@@ -7,7 +7,7 @@ layout: page
 	  <div class="row">
 	    <div class="col-sm-3">
 	      <b>Chunhua Liu</b>
-	      <br>PhD Student
+	      <br>Postdoc in SE and NLP
 	      <address>
 		Melbourne Connect
 	      </address>

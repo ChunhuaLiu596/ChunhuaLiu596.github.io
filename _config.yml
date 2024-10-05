@@ -12,7 +12,7 @@ plugins: [jekyll-paginate]
 # Setup
 title:           Chunhua Liu 
 tagline:          'U. Melb.'
-description:      'PhD Student, <a href="https://cis.unimelb.edu.au/">Computing and Information Systems</a> at <a href="https://www.unimelb.edu.au/">the University of Melbourne</a>.'
+description:      'Postdoc, <a href="https://cis.unimelb.edu.au/">Computing and Information Systems</a> at <a href="https://www.unimelb.edu.au/">the University of Melbourne</a>.'
 url:              https://chunhualiu596.github.io/
 baseurl:          /
 
