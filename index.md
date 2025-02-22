@@ -7,7 +7,7 @@ layout: page
 	  <div class="row">
 	    <div class="col-sm-3">
 	      <b>Chunhua Liu</b>
-	      <br>Postdoc in SE and NLP
+	      <br>Postdoc Research Fellow and Associate Lecturer in NLP
 	      <address>
 		Melbourne Connect
 	      </address>
@@ -39,19 +39,23 @@ layout: page
     </div>
 
 <p class="message">
-I am a Postdoctoral Research Fellow at The University of Melbourne. Currently, I'm working with 
-<a href="https://patanamon.com/">Dr Patanamon (Pick) Thongtanunam </a> on empirical software engineering research, focusing on automated code review. My current work emphasizes the importance of high-quality datasets and challenges such as hallucinations to ensure the reliability and trustworthiness of machine learning systems in software engineering.
+I am a Research Fellow in NLP at The University of Melbourne, working with <a href="https://scholar.google.com/citations?user=xMne5ZUAAAAJ&hl=en"> Prof Eduard Hovy </a> on topics under the umbrella of disinformation. I'm interested in building more reliable, inclusive and collaborative AI systems that align with the diverse cultures and values of global human societies.
 </p>
 
 <p class="message">
-I was awarded a PhD in Natural Language Processing under the supervision of <a href="https://people.eng.unimelb.edu.au/tcohn/">Trevor Cohn</a> and <a href="https://www.frermann.de//">Lea Frermann</a>. My research interests center around understanding the structure and relationships between concepts through interdisciplinary perspectives, including NLP and cognitive psychology. With a specific emphasis on understanding the structure and reasons behind human word associations, evaluating the potential of word associations as a source of commonsense knowledge and incorporating commonsense knowledge to improve neural models' reasoning ability on tasks, such as commonsense question answering and natural language inferences.  <br><br>
+Previously, I worked with 
+<a href="https://patanamon.com/">Dr Patanamon (Pick) Thongtanunam</a> as a postdoc on empirical software engineering research, focusing on enhancing dataset quality, improving the quality of model generated review comments, and investigating LLM hallucinations in automated code review.
+</p>
 
-This naturally evolved into an exploration of how these concept networks vary across languages and cultures. As my research progressed, I became increasingly intrigued by how computational models learn and understand these cultural differences. This sparked a long-term research agenda that I’m eager to pursue further: exploring how cultural differences shape our daily behaviours and norms, and how these can be learnt and aligned by NLP models such as large-language models. This work will contribute to the long-term goal of building more inclusive and collaborative AI systems that align with the diverse cultures and values of global human societies.
+<p class="message">
+I was awarded a PhD in Natural Language Processing under the supervision of <a href="https://people.eng.unimelb.edu.au/tcohn/">Prof Trevor Cohn</a> and <a href="https://www.frermann.de//">Dr Lea Frermann</a>. My research interests center around understanding the structure and relationships between concepts through interdisciplinary perspectives, including NLP and cognitive psychology. With a specific emphasis on understanding the structure and reasons behind human word associations, evaluating the potential of word associations as a source of commonsense knowledge and incorporating commonsense knowledge to improve neural models' reasoning ability on tasks, such as commonsense question answering and natural language inferences.  <br><br>
+
+I'm also exploring how cultural differences shape behaviors and norms, as well as how computational models learn and understand cultural differences. This is also a long-term research agenda that I’m eager to pursue further: understanding how cultural differences shape our daily behaviours and norms, and how these can be learnt and aligned by NLP models such as large-language models.
 </p>
 
 
 <p class="message">
-I am actively seeking job opportunities in the domains of NLP, software engineering, and cognitive psychology, including postdoctoral, lecturer, and research scientist positions. If you know of any available opportunities, please feel free to reach out via email (chunhua.liu1{at}unimelb.edu.au) or <a href="https://www.linkedin.com/in/chunhua-liu-977626177/">LinkedIn</a>. 
+I am actively seeking academic job opportunities in the domains of NLP, software engineering, and cognitive psychology, including postdoctoral, lecturer, and research scientist positions. If you know of any available opportunities, please feel free to reach out via email (chunhua.liu1{at}unimelb.edu.au) or <a href="https://www.linkedin.com/in/chunhua-liu-977626177/">LinkedIn</a>. 
 </p>
 
 <h3>News</h3>
