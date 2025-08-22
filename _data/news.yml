@@ -1,16 +1,20 @@
 posts:
+  - date: Aug 2025 
+    text: Paper accepted by SACM "Exploring the Potential of Large Language Models in Fine-Grained Review Comment Classification"
+    
   - date: Jul 2025
     text: 🎉 I'm heading to ACL 2025 in Vienna! If you're around, feel free to reach out — I'd love to chat!
 
   - date: June 2025
     text: 🎊 Thrilled to share that two of our papers were accepted to ACL 2025 — one in the main conference and one in Findings!  
       It's a special moment for me, as both papers are co-authored with my very first co-supervised students. 🌱
-
+      
+    text: 
       - 1. Comparing Moral Values in Western English-speaking Societies and LLMs with Word Associations.
       Chaoyi Xiang, Chunhua Liu, Simon De Deyne, Lea Frermann 
         - 🔗 [arXiv](https://arxiv.org/pdf/2505.19674)  
         - (Huge kudos to Chaoyi — my very first co-supervised Master’s student. Outstanding work!) 
-
+    text: 
       - 2. The Code Review Comprehension Assessment for Language Models. 
       Hong Yi Lin, Chunhua Liu, Haoyu Gao, Patanamon Thongtanunam, Christoph Treude 
         - 🔗 [arXiv](https://arxiv.org/pdf/2503.16167)  
