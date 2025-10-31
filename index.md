@@ -64,9 +64,3 @@ I am actively seeking academic job opportunities in the domains of NLP, software
   <li><i>{{ item.date }}</i>: {{ item.text }}</li>
 {% endfor %}
 </ul>
-
-<h3>Recent Papers</h3>
-
-{% for yr in (2021..2023) reversed %}
-{% include publications.html year=yr %}
-{% endfor %}
