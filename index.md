@@ -46,7 +46,7 @@ I am a Postdoctoral Research Fellow and Associate Lecturer in NLP at The Univers
 </p>
 
 <div class="message">
-My work spans three interconnected themes:
+My current primary research themes are:
 <ul>
   <li><b>Cultural alignment of language models</b> — grounding LLMs in diverse cultural and moral values
     (<a href="https://aclanthology.org/2025.acl-long.177/">ACL 2025</a>,
@@ -55,15 +55,19 @@ My work spans three interconnected themes:
     (<a href="https://aclanthology.org/2022.aacl-main.9">WAX</a>,
      CogSci 2026)</li>
   <li><b>Human–AI communication and persuasion</b> — examining how LLMs adapt to people and how that power can be misused or steered</li>
+</ul>
+I also collaborate widely, including on:
+<ul>
   <li><b>NLP for software engineering</b> — trustworthy automated code review
     (<a href="https://www.computer.org/csdl/proceedings-article/msr/2025/018300a236/27vTsGKcCvC">MSR 2025</a>,
      <a href="https://aclanthology.org/2025.findings-acl.476.pdf">ACL Findings 2025</a>,
      <a href="https://dl.acm.org/doi/10.1145/3762183">TOSEM 2025</a>)</li>
+  <li><b>NLP for mental health</b> — applying NLP to support carers and underserved communities, with the <a href="https://medicine.unimelb.edu.au/research-groups/general-practice-and-primary-care-research/primary-care-mental-health/whose-care-is-left-behind">Whose Care is Left Behind</a> project and the <a href="https://alivenetwork.com.au/">ALIVE Centre</a></li>
 </ul>
 </div>
 
 <p class="message">
-Previously, I spent a year as a postdoc with <a href="https://patanamon.com/">A/Prof Patanamon Thongtanunam</a> on empirical software engineering, focusing on automated code review. I was also very fortunate to complete my PhD under <a href="https://people.eng.unimelb.edu.au/tcohn/">Prof Trevor Cohn</a> and <a href="https://www.frermann.de/">Dr Lea Frermann</a> on commonsense reasoning via human word associations (see my <a href="https://findanexpert.unimelb.edu.au/scholarlywork/1875104-word-associations-as-a-source-of-commonsense-knowledge?cache=1759739545311">PhD thesis</a>). Much of my work bridges cognitive science and NLP, grounded in the <a href="https://smallworldofwords.org/en/project">Small World of Words</a> project in collaboration with <a href="https://scholar.google.com/citations?user=33TqQu8AAAAJ&hl=en">Simon De Deyne</a>. Before this, I completed my undergraduate and master's degrees with <a href="https://scholar.google.com/citations?user=oW2lr0kAAAAJ&hl=zh-CN">Prof Dong Yu</a> at BLCU, where my NLP research began.
+Previously, I spent a year as a postdoc with <a href="https://patanamon.com/">A/Prof Patanamon Thongtanunam</a> on empirical software engineering, focusing on automated code review. I was also very fortunate to complete my PhD under <a href="https://people.eng.unimelb.edu.au/tcohn/">Prof Trevor Cohn</a> and <a href="https://www.frermann.de/">Dr Lea Frermann</a> on commonsense reasoning via human word associations (see my <a href="https://findanexpert.unimelb.edu.au/scholarlywork/1875104-word-associations-as-a-source-of-commonsense-knowledge?cache=1759739545311">PhD thesis</a>). Much of my PhD work bridges cognitive science and NLP, grounded in the <a href="https://smallworldofwords.org/en/project">the Small World of Words</a> project in collaboration with <a href="https://scholar.google.com/citations?user=33TqQu8AAAAJ&hl=en">Dr Simon De Deyne</a>. Before this, I completed my undergraduate and master's degrees with <a href="https://scholar.google.com/citations?user=oW2lr0kAAAAJ&hl=zh-CN">Prof Dong Yu</a> at BLCU, where my NLP research began.
 </p>
 
 <p class="message">
