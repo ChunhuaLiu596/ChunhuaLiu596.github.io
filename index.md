@@ -23,7 +23,7 @@ layout: page
     <div class="col-sm-9">
 	  <div class="row">
 	    <div class="col-sm-12">
-	      <b>Chunhua Liu</b> <span style="font-size:0.85em; color:#888;">(刘春花 &middot; <i>chūn</i> 春 spring, <i>huā</i> 花 flower)</span>
+	      <b>Chunhua Liu</b> <span style="font-size:0.85em; color:#888;">(刘春花 &middot; <i>chūn</i> 春=spring, <i>huā</i> 花=flower)</span>
 	      <br>Postdoc Research Fellow and Associate Lecturer in NLP
 	      <address>
 		Melbourne Connect
@@ -45,12 +45,25 @@ layout: page
 I am a Postdoctoral Research Fellow and Associate Lecturer in NLP at The University of Melbourne, working with <a href="https://scholar.google.com/citations?user=xMne5ZUAAAAJ&hl=en">Prof Eduard Hovy</a> and <a href="https://www.frermann.de/">Dr Lea Frermann</a> on cultural and value alignment in language models. My research develops human-centred NLP systems that reliably adapt to the diverse meanings, values, and behaviours of people across cultures and societies.
 </p>
 
-<p class="message">
-My work spans three interconnected themes: (1) <b>cultural alignment of language models</b> — grounding LLMs in diverse cultural and moral values (ACL 2025, ACL 2026); (2) <b>understanding diversity in human meaning</b> — studying how word meanings and semantic associations vary across cultures using cognitive psychology methods (WAX, CogSci 2026); and (3) <b>human–AI communication and persuasion</b> — examining how LLMs can adapt and how that power can be misused or steered. I also apply NLP to software engineering, with a focus on trustworthy automated code review (MSR 2025, ACL 2025, TOSEM 2025).
-</p>
+<div class="message">
+My work spans three interconnected themes:
+<ul>
+  <li><b>Cultural alignment of language models</b> — grounding LLMs in diverse cultural and moral values
+    (<a href="https://aclanthology.org/2025.acl-long.177/">ACL 2025</a>,
+     <a href="https://www.arxiv.org/pdf/2508.13426">ACL 2026</a>)</li>
+  <li><b>Understanding diversity in human meaning</b> — studying how word meanings and semantic associations vary across cultures using cognitive psychology methods
+    (<a href="https://aclanthology.org/2022.aacl-main.9">WAX</a>,
+     CogSci 2026)</li>
+  <li><b>Human–AI communication and persuasion</b> — examining how LLMs adapt to people and how that power can be misused or steered</li>
+  <li><b>NLP for software engineering</b> — trustworthy automated code review
+    (<a href="https://www.computer.org/csdl/proceedings-article/msr/2025/018300a236/27vTsGKcCvC">MSR 2025</a>,
+     <a href="https://aclanthology.org/2025.findings-acl.476.pdf">ACL Findings 2025</a>,
+     <a href="https://dl.acm.org/doi/10.1145/3762183">TOSEM 2025</a>)</li>
+</ul>
+</div>
 
 <p class="message">
-Previously, I completed a postdoc with <a href="https://patanamon.com/">A/Prof Patanamon Thongtanunam</a> on empirical software engineering, and a PhD under <a href="https://people.eng.unimelb.edu.au/tcohn/">Prof Trevor Cohn</a> and <a href="https://www.frermann.de/">Dr Lea Frermann</a> on commonsense reasoning via human word associations.
+Previously, I spent a year as a postdoc with <a href="https://patanamon.com/">A/Prof Patanamon Thongtanunam</a> on empirical software engineering, focusing on automated code review. I was also very fortunate to complete my PhD under <a href="https://people.eng.unimelb.edu.au/tcohn/">Prof Trevor Cohn</a> and <a href="https://www.frermann.de/">Dr Lea Frermann</a> on commonsense reasoning via human word associations (see my <a href="https://findanexpert.unimelb.edu.au/scholarlywork/1875104-word-associations-as-a-source-of-commonsense-knowledge?cache=1759739545311">PhD thesis</a>). Much of my work bridges cognitive science and NLP, grounded in the <a href="https://smallworldofwords.org/en/project">Small World of Words</a> project in collaboration with <a href="https://scholar.google.com/citations?user=33TqQu8AAAAJ&hl=en">Simon De Deyne</a>. Before this, I completed my undergraduate and master's degrees with <a href="https://scholar.google.com/citations?user=oW2lr0kAAAAJ&hl=zh-CN">Prof Dong Yu</a> at BLCU, where my NLP research began.
 </p>
 
 <p class="message">
