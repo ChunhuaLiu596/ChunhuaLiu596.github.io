@@ -7,7 +7,7 @@ You can also find my articles on <a href="{{site.gscholar}}">my Google Scholar p
 
 
 
-{% for yr in (2018..2023) reversed %}
+{% for yr in (2018..2026) reversed %}
 ## {{yr}}
 {% include publications.html year=yr %}
 {% endfor %}

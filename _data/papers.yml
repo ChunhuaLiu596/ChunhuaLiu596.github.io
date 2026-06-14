@@ -1,5 +1,74 @@
 papers:
   - layout: paper
+    author: "Chunhua Liu, Kabir Manandhar Shrestha and Sukai Huang"
+    title: "ALIGN: Word Association Learning for Cultural Alignment in Large Language Models"
+    year: "2026"
+    paper-type: inproceedings
+    booktitle: "ACL 2026"
+    booktitle-full: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+    docurl: "https://www.arxiv.org/pdf/2508.13426"
+  - layout: paper
+    author: "Simon De Deyne, Sukai Huang, Lea Frermann and Chunhua Liu"
+    title: "Fine-tuned Large Language Models predict human word associations and improve performance across lexical and semantic processing tasks"
+    year: "2026"
+    paper-type: inproceedings
+    booktitle: "CogSci 2026"
+    booktitle-full: "Proceedings of the 48th Annual Meeting of the Cognitive Science Society"
+  - layout: paper
+    author: "Chaoyi Xiang, Chunhua Liu, Simon De Deyne and Lea Frermann"
+    title: "Comparing Moral Values in Western English-speaking societies and LLMs with Word Associations"
+    year: "2025"
+    paper-type: inproceedings
+    booktitle: "ACL 2025"
+    booktitle-full: "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+    docurl: "https://aclanthology.org/2025.acl-long.177/"
+  - layout: paper
+    author: "Chunhua Liu, Hong Yi Lin and Patanamon Thongtanunam"
+    title: "Hallucinations in Code Change to Natural Language Generation: Prevalence and Evaluation of Detection Metrics"
+    year: "2025"
+    paper-type: inproceedings
+    booktitle: "IJCNLP-AACL 2025"
+    booktitle-full: "International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics"
+    docurl: "https://aclanthology.org/2025.ijcnlp-long.137/"
+  - layout: paper
+    author: "Chunhua Liu, Hong Yi Lin and Patanamon Thongtanunam"
+    title: "Too Noisy To Learn: Enhancing Data Quality for Code Review Comment Generation"
+    year: "2025"
+    paper-type: inproceedings
+    booktitle: "MSR 2025"
+    booktitle-full: "Proceedings of the 22nd International Conference on Mining Software Repositories"
+    docurl: "https://www.computer.org/csdl/proceedings-article/msr/2025/018300a236/27vTsGKcCvC"
+  - layout: paper
+    author: "Hong Yi Lin, Chunhua Liu, Haoyu Gao, Patanamon Thongtanunam and Christoph Treude"
+    title: "CodeReviewQA: The Code Review Comprehension Assessment for Large Language Models"
+    year: "2025"
+    paper-type: inproceedings
+    booktitle: "Findings of ACL 2025"
+    booktitle-full: "Findings of the Association for Computational Linguistics: ACL 2025"
+    docurl: "https://aclanthology.org/2025.findings-acl.476.pdf"
+  - layout: paper
+    author: "Hong Yi Lin, Patanamon Thongtanunam, Christoph Treude, Michael Godfrey, Chunhua Liu and Wachiraphan Charoenwet"
+    title: "Leveraging Reviewer Experience in Code Review Comment Generation"
+    year: "2025"
+    paper-type: article
+    journal: "ACM Transactions on Software Engineering and Methodology (TOSEM)"
+    docurl: "https://dl.acm.org/doi/10.1145/3762183"
+  - layout: paper
+    author: "Luan Nguyen, Chunhua Liu, Hong Yi Lin and Patanamon Thongtanunam"
+    title: "Exploring the Potential of Large Language Models in Fine-Grained Review Comment Classification"
+    year: "2025"
+    paper-type: inproceedings
+    booktitle: "SCAM 2025"
+    booktitle-full: "2025 IEEE International Conference on Source Code Analysis and Manipulation"
+  - layout: paper
+    author: "Simon De Deyne, Chunhua Liu and Lea Frermann"
+    title: "Can GPT-4 Recover Latent Semantic Relational Information from Word Associations? A Detailed Analysis of Agreement with Human-annotated Semantic Ontologies"
+    year: "2024"
+    paper-type: inproceedings
+    booktitle: "CogALex @ LREC-COLING 2024"
+    booktitle-full: "The Workshop on Cognitive Aspects of the Lexicon (CogALex@ LREC-COLING 2024)"
+    docurl: "https://aclanthology.org/2024.cogalex-1.8.pdf"
+  - layout: paper
     author: "Chunhua Liu, Trevor Cohn and Lea Frermann"
     title: "Seeking Clozure: Robust Hypernym Extraction from BERT with Anchored Prompts"
     year: "2023"
