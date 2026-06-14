@@ -60,6 +60,7 @@ papers:
     paper-type: inproceedings
     booktitle: "SCAM 2025"
     booktitle-full: "2025 IEEE International Conference on Source Code Analysis and Manipulation"
+    docurl: "https://arxiv.org/pdf/2508.09832"
   - layout: paper
     author: "Simon De Deyne, Chunhua Liu and Lea Frermann"
     title: "Can GPT-4 Recover Latent Semantic Relational Information from Word Associations? A Detailed Analysis of Agreement with Human-annotated Semantic Ontologies"

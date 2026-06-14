@@ -6,7 +6,7 @@ layout: page
     <div class="col-sm-9">
 	  <div class="row">
 	    <div class="col-sm-3">
-	      <b>Chunhua Liu</b>
+	      <b>Chunhua Liu</b> <span style="font-size:0.85em; color:#888;">(刘春花 &middot; <i>chūn</i> 春 spring, <i>huā</i> 花 flower)</span>
 	      <br>Postdoc Research Fellow and Associate Lecturer in NLP
 	      <address>
 		Melbourne Connect
