@@ -2,39 +2,42 @@
 layout: page
 ---
 <div class="row">
-    <div class="col-sm-3"><img src="{{ site.baseurl }}public/blcu16.JPG" alt="Photo of Chunhua"></div> 
+    <div class="col-sm-3">
+      <img src="{{ site.baseurl }}public/blcu16.JPG" alt="Photo of Chunhua" style="margin-bottom:10px;">
+      <div style="font-size:0.9em; line-height:2;">
+        <script type="text/javascript"><!--
+        document.write('<a href="' +
+        'mailto:chunhua' +
+        'liu1@uni' +
+        'melb.edu' +
+        '.au">' +
+        '<span class="glyphicon glyphicon-envelope"></span> Email</a>');
+        //-->
+        </script>
+        <noscript><IMG alt="E-mail" border=0 src="./email.png"></noscript>
+        <br>
+        <a href="https://www.linkedin.com/in/chunhua-liu-977626177/">LinkedIn</a><br>
+        <a href="https://scholar.google.com/citations?user=IvOlenIAAAAJ&hl=en">Google Scholar</a>
+      </div>
+    </div>
     <div class="col-sm-9">
 	  <div class="row">
-	    <div class="col-sm-3">
+	    <div class="col-sm-12">
 	      <b>Chunhua Liu</b> <span style="font-size:0.85em; color:#888;">(刘春花 &middot; <i>chūn</i> 春 spring, <i>huā</i> 花 flower)</span>
 	      <br>Postdoc Research Fellow and Associate Lecturer in NLP
 	      <address>
 		Melbourne Connect
 	      </address>
 	    </div>
-		<div class="col-sm-7">
+	  </div>
+	  <div class="row">
+		<div class="col-sm-12">
 		  <a href="http://www.cis.unimelb.edu.au">Computing and Information Systems</a><br/>
 		  <a href="http://www.unimelb.edu.au">The University of Melbourne</a><br/>
 		  <a href="http://uom-nlp.github.io/">Natural Language Processing group</a> <br/>
 		  <a href="https://cis.unimelb.edu.au/research/computer-science/research/software-engineering">Software Engineering group</a>
 		</div>
 	  </div>
-	  <div class="row">
-	    <div class="col-sm-3">
-	<script type="text/javascript"><!--
-	document.write('<a href="' +
-	'mailto:chunhua' +
-	'liu1@uni' +
-	'melb.edu' +
-	'.au
-">' +
-	'<span class="glyphicon glyphicon-envelope"></span></a> Email');
-	//-->
-	</script>
-	<noscript><IMG alt="E-mail" border=0 src="./email.png"></noscript>
-	    </div>
-	    <div class="col-sm-7"> Ph: +61000000000 </div>
-	    </div>
 	</div>
     </div>
 
