@@ -7,7 +7,7 @@ layout: page
       <div style="font-size:0.9em; line-height:2;">
         <script type="text/javascript"><!--
         document.write('<a href="' +
-        'mailto:chunhua' +
+        'mailto:chunhua.' +
         'liu1@uni' +
         'melb.edu' +
         '.au">' +
